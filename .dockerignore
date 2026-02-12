@@ -1,6 +1,2 @@
-Dockerfile
-README.md
-examples
-LICENSE
 .git
-ci/
+.github
